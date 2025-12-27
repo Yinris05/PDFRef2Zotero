@@ -12,4 +12,8 @@ __pycache__/
 
 # IDE
 .idea/
+.idea
 
+prompt
+download_test.py
+AGENTS.md
