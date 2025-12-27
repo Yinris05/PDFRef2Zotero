@@ -1,0 +1,15 @@
+# Local artifacts
+refs.jsonl
+missing_doi_links.csv
+references.pdf
+move_pdfs_to_root.py
+zoteroKey
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+
