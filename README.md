@@ -56,3 +56,12 @@ downloadPaper/
 ├─ README.md                  # this document
 └─ .gitignore                 # ignores local artifacts
 ```
+
+## Git Ignore / 忽略文件
+- The following files are ignored and should not be committed:
+  - `refs.jsonl`
+  - `missing_doi_links.csv`
+  - `references.pdf`
+  - `move_pdfs_to_root.py`
+  - `zoteroKey`
+- Local IDE/venv artifacts are also ignored (e.g., `.idea/`, `.venv/`).
