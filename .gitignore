@@ -4,6 +4,9 @@ missing_doi_links.csv
 references.pdf
 move_pdfs_to_root.py
 zoteroKey
+prompt
+download_test.py
+AGENTS.md
 
 # Python
 __pycache__/
@@ -13,7 +16,3 @@ __pycache__/
 # IDE
 .idea/
 .idea
-
-prompt
-download_test.py
-AGENTS.md
